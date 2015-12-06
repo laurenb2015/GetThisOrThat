@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lauren\StudioProjects\GetThisOrThat\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\Lauren\StudioProjects\GetThisOrThat\app\build\intermediates\pre-dexed\debug\classes-80b7ef5d38b0baca2145d2af6fd2bbe9149a5a4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lauren\StudioProjects\GetThisOrThat\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\Lauren\StudioProjects\GetThisOrThat\app\build\intermediates\pre-dexed\debug\classes-35cc8f9fdafd2ab7af9bdfa8a18f130f6dcc3a20.jar" />
+    </item>
+
+</items>
